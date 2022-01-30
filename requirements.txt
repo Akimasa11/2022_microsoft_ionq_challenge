@@ -1,0 +1,6 @@
+keras
+keras-rl2
+gym
+numpy
+qiskit-aer
+azure-quantum[qiskit]

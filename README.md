@@ -55,7 +55,7 @@ The opponent is powered by a machine learning model which has been trained to pl
 ## Our team's personal experience
 Our team had a fun experience by connecting with peers of similar interest from accross the globe. We greatly enjoyed learning about each other and working as a group to develop our first ever quantum game as a team. We all appreciated the opportunity of being able to interact directly with experts and mentors at the forefront of the quantum computing industry and academia. We think we have grown both as individuals and as a team, and we are all looking forward to more quantum team challenges in the future. 
 
-![Alt text](Screen Shot 2022-01-30 at 4.42.10 PM.png?raw=true "Optional Title")
+[solarized palette](https://github.com/anish-shanbhag/2022_microsoft_ionq_challenge/blob/66c311d4a99557a2c367b3df5b761207e94a868a/Screen%20Shot%202022-01-30%20at%204.42.10%20PM.png)
 
 ## Date
 

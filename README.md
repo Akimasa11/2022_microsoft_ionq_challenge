@@ -29,6 +29,9 @@ There are only 8 days left until Valentine’s Day and you have no date. Can you
 - Since there are only 8 days left and you need to get your date before Valentine’s Day, there will be a total of 7 turns to connect with your crush (one per day). If the target state vector is never achieved, the relationship falls through and you end up lonely :(.
 - The final turn executes the circuit in a real quantum computer with 1024 shots and checks how many times the outcome state matches the target statevector (win - 80% success rate). If the counts are within the threshold, you win, otherwise you lose! 
 
+## How to play
+Run the val_quantum notebook on Microsoft Azure and the last cell will start the game. 
+
 ## Quantum Aspect
 
 Each turn the player will be adding gates to their real quantum circuit. As each turn passes, we use the ionq quantum simulator to simulate the current (idealized) state vector of the system according to the gates that have been added. In the final turn, the entire circuit will be sent to the real ionq quantum computer. After the job has been executed, our program will check to see if the final state is the correct target state (within a threshold of course due to noise).
